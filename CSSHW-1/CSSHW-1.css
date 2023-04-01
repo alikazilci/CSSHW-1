@@ -1,0 +1,56 @@
+/************* Layout *************/
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+/*font-family: 'Delicious Handrawn', cursive;*/
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 1500;
+}
+
+h3 {
+    text-transform: capitalize;
+    text-align: left;
+    font-weight: 1000;
+    padding: 10px;
+}
+
+.text-1 {
+    font-size: 18px;
+    color: #0e1013;
+}
+.center {
+    margin: auto;
+    width: 75%;
+    text-align: center;
+    padding: 10px;
+  }
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+}
+
+.fs-30 {
+    text-transform: capitalize;
+    font-size: 30px;
+}
